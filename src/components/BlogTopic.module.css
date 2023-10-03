@@ -1,0 +1,23 @@
+.Header {
+  width: 70%;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 150px;
+}
+
+.Title {
+  display: flex;
+  font-size: 24px;
+  color: #676767;
+  margin-left: 15px;
+  gap: 8px;
+}
+
+.viewAll {
+  display: flex;
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(185, 32, 32);
+}

@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  background-color: white;
+}
+
+@font-face {
+  font-family: "FC-Minimal";
+  src: url("/public/FC-Minimal-Regular.ttf") format("truetype");
+}
+
+body {
+  margin: 0;
+  background-color: #eee;
+  font-family: "FC-Minimal", sans-serif;
+}
